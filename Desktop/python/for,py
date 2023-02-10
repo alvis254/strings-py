@@ -1,0 +1,5 @@
+pin=eval(input("enter your pin"))
+print("the pin:",)
+
+
+
